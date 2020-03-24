@@ -1,3 +1,5 @@
 .vs
 packages
 DemoWebAPI.sln
+DemoWebAPI/obj/
+DemoWebAPI/bin/
